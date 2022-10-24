@@ -62,12 +62,12 @@ input {
 #feature {
     margin: auto;
     width: 60%;
-    margin-top: 2rem;
+    /* margin-top: 2rem; */
 
 }
 #one {
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 #one img {
     scale: 2;
@@ -97,8 +97,8 @@ input {
 }
 .box {
     border: 1px solid black;
-    width: 17em;
-    height: 17em;
+    width: 30%;
+    height: 18em;
     margin: auto;
     border-radius: 4px;
 }
