@@ -23,7 +23,7 @@ Clone or download this repository and run with a local server of open `index.htm
 
 ## Demo
 
-[Preview Here](https://rawcdn.githack.com/PrimeFord/ProductPage/5e46320c9c75f3ac78c5f93f216546037e2360a4/index.html)
+[Preview Here](https://rawcdn.githack.com/PrimeFord/ProductPage/c2dcb905981c5a3a24c6a6456dd1bf8f6b24ad33/index.html)
 
 ![screenshot](./media/snip.png)
 
